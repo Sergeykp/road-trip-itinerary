@@ -1,0 +1,25 @@
+.tips {
+  background: #f5f5f3;
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin-bottom: 16px;
+}
+
+.label {
+  font-size: 13px;
+  font-weight: 600;
+  color: #888;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.tips ul {
+  padding-left: 18px;
+}
+
+.tips li {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.7;
+}

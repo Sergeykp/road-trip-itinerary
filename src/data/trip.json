@@ -1,0 +1,935 @@
+{
+  "meta": {
+    "title": "Семейное путешествие",
+    "route": "Калгари → Сильвер-Стар",
+    "subtitle": "23–27 июля · 16 человек · 5 дней"
+  },
+  "days": [
+    {
+      "date": "23.07",
+      "title": "День 1",
+      "sub": "Горы и адреналин",
+      "emoji": "🏔️",
+      "dot": "#1D9E75",
+      "stops": [
+        {
+          "icon": "🌊",
+          "name": "Emerald Lake",
+          "nameRu": "Изумрудное озеро",
+          "time": "11:30–13:30",
+          "desc": "<p>Одно из красивейших озёр Канады с <strong>бирюзовым</strong> цветом воды.</p><p>Лёгкий трек вокруг озера и <a href=\"https://www.crmlodges.com/emerald-lake-lodge\" target=\"_blank\" rel=\"noopener noreferrer\">аренда каноэ</a>.</p>",
+          "links": [
+            {
+              "label": "Parks Canada — Yoho",
+              "url": "https://parks.canada.ca/pn-np/bc/yoho"
+            },
+            {
+              "label": "Emerald Lake Lodge",
+              "url": "https://www.crmlodges.com/emerald-lake-lodge"
+            }
+          ],
+          "tips": [
+            "Плоский трек вокруг озера — идеально для детей",
+            "Деревянные каноэ в аренду на лодочной станции",
+            "Лучшие групповые фото именно здесь"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~2 часа"
+            },
+            {
+              "icon": "ti-walk",
+              "text": "Лёгкий трек"
+            },
+            {
+              "icon": "ti-sailboat",
+              "text": "Аренда каноэ"
+            }
+          ],
+          "q": "Emerald Lake, Yoho National Park, BC, Canada",
+          "imgs": [
+            "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSjyY_msV9fFXKZ-XpEZI1B-_cVNae_JZ8oMv3VhI3u43dXf8cP1Ks4Z0QCjUB7jkCUkmXgneG-mj-fOA2SKhffk1w&s=19",
+            "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQijyA7ukBjnQOUuc5eOloajArN-qx7G0QsnBocaOZ69J2fSWvXavjBaROuGBKa6dymXicHY1LH1aETLDb1AVmuMyk&s=19",
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHbhh1KnPYLZ9HL0HVlB8QVViYaZ_OIt3kwfFA0MwW9rn8o_s985hEt9qB6dRgBOOPqHrXpu8NVKeh5sQ1IluMj3tkM1Z_djkXis2drxKV6B8qJiaN3Xb6AgY9EF8pGJjqE1fEHISF_1HMb=w1080-h624-n-k-no"
+          ]
+        },
+        {
+          "icon": "🍔",
+          "name": "The Wolf's Den",
+          "nameRu": "Ресторан в Голдене",
+          "time": "14:00–15:30",
+          "desc": "Рустик-ресторанчик с отличными бургерами, стейками и детским меню. Идеально набраться сил после прогулки.",
+          "tips": [
+            "Большие порции — хватит на всех",
+            "Хорошее детское меню",
+            "Бронировать стол заранее для 16 человек"
+          ],
+          "info": [
+            {
+              "icon": "ti-building",
+              "text": "Голден, Британская Колумбия"
+            },
+            {
+              "icon": "ti-tools-kitchen-2",
+              "text": "Бургеры, стейки"
+            }
+          ],
+          "q": "The Wolf's Den, Golden, BC, Canada",
+          "imgs": [
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5Fl2kDkw2XLthXEfyvDg0XsATzCQ2apcErryZ8DdURrAxDAleENn3mFnXQtIWUmCf3Lwqy7xAvusLGtmizj-WX7WDOrhiBL-CVqMRJUNrYbC8zsC-fPKhfuadf9i0_b2DSRnE=s1360-w1360-h1020-rw",
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnwmns8zhSJNqYLXQw-j8RD0wD2L-vDHeBdyjIbIziJ2RiscVNtcEtCUA-NUFI8gj3zWKKWgtlmT4GIcFy0anI_nMEA6QScvAcXcBweaJDz3dlqBRijgsdX8thhHPG9Y4ctHwC3KbZj2Q=s1360-w1360-h1020-rw",
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCwo6m1l7L0yvnE-GSn3Xdkuz9damfXp8pefvoyuYg8EUNJoxFhYODhGiWfuAmyyYRqDswTcF_xNj3R8Tt5oLwwnm1-lg7JnwEhN88t1qqbQBrbkCnPUhIqXHzadRBLFuVTqZfmA=s1360-w1360-h1020-rw",
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElGVWDM1WaplTArkRF85L0QOGBbe8b5JW2cLgHKnvRv2aeKyBYPtYasr_s6L4qQC_OhAu_br__qi8elpsXveTj7LDTH6MpfjlyC1CIe8oIbefWt1xoyfQaYdhqgZ6lMc6xaF2o=s1360-w1360-h1020-rw"
+          ]
+        },
+        {
+          "icon": "🏨",
+          "name": "Holiday Inn Express Golden",
+          "nameRu": "Отель в Голдене",
+          "time": "15:30–16:30",
+          "desc": "Отель для ночёвки в Голдене. Быстро заселяемся, оставляем тяжёлый багаж и выдвигаемся на evening аттракцион.",
+          "tips": [
+            "Оставить лишний багаж",
+            "Взять удобную обувую и куртки"
+          ],
+          "info": [
+            {
+              "icon": "ti-building",
+              "text": "Голден, Британская Колумбия"
+            }
+          ],
+          "q": "Holiday Inn Express Golden, BC, Canada",
+          "imgs": [
+            "https://lh3.googleusercontent.com/p/AF1QipOK1y4VxzEEBvqpbsIFlberyehdWWxQXEWVAlXW=s1360-w1360-h1020-rw",
+            "https://lh3.googleusercontent.com/p/AF1QipNYPwMFBxDMJHJZEK10NbSRoA10jiT4b-koMn5Y=s1360-w1360-h1020-rw",
+            "https://lh3.googleusercontent.com/p/AF1QipN5b59mFSxa6c9RRR8bH74BYwkRTGPAoBijaKeZ=s1360-w1360-h1020-rw",
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAK7EKcyikSa6lB75wd6qWfmoabAm_bTNeTP77PQpFm2bzWUPwBueYzSKvL8ifH-2zT8hKfXN5tcob309bv8rPEFmOvA_331PE-rB5agBCSd_s8lCLZpkj1EabFncJ_EU8pksr=s1360-w1360-h1020-rw"
+          ]
+        },
+        {
+          "icon": "🎢",
+          "name": "Golden Skybridge",
+          "nameRu": "Подвесные мосты",
+          "time": "16:30–19:30",
+          "desc": "Самые высокие подвесные мосты в Канаде над каньоном. Верёвочный парк, зиплайн и горные горки Canyon Coaster — дети будут в восторге.",
+          "links": [
+            {
+              "label": "Официальный сайт",
+              "url": "https://www.goldenskybridge.com/"
+            }
+          ],
+          "tips": [
+            "Canyon Coaster — управляете скоростью сами",
+            "Зиплайн над бездной",
+            "Верёвочный парк для всех возрастов",
+            "Тёплые куртки обязательны"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~3 часа"
+            },
+            {
+              "icon": "ti-rocket",
+              "text": "Зиплайн, горки, парк"
+            }
+          ],
+          "q": "Golden Skybridge, Golden, BC, Canada",
+          "imgs": [
+            "https://lh3.googleusercontent.com/p/AF1QipP1vbN-pZDz-i4flflNW5yPUwuHQukj1mfHX4De=s1360-w1360-h1020-rw",
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHY52wFfGtPj8TWHOernTKFCexQY16DIYs-ETF3uQ1N0kIb4iuQ6aDeyQOZBEpasg87uue41JQ2EYS-E_c0d-jKPjA30UdboWqkO_h7UztVdoq3QL3SWkygD0WXYLD8ozPf87rb=s1360-w1360-h1020-rw",
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7T55Sd8hkYdiG7lBty1a0wt17qse89-7Gok6GB1b_xrGnjyFiJDIbvx2UiGnsC4kS4knYl7gGBz-JwmvAqZ-DvMHDvymfn1uMk59v8y_yX3gB_mwlvMcbYviepXdpl8GYSiaq=s1360-w1360-h1020-rw"
+          ]
+        }
+      ],
+      "summary": [
+        {
+          "icon": "🚗",
+          "text": "Маршрут: Калгари → Emerald Lake → Голден"
+        },
+        {
+          "icon": "⏱",
+          "text": "Чистое время в дороге: ~3 часа"
+        },
+        {
+          "icon": "📏",
+          "text": "Расстояние: ~270 км"
+        }
+      ]
+    },
+    {
+      "date": "24.07",
+      "title": "День 2",
+      "sub": "Аква-драйв, горячие бассейны и вилла",
+      "emoji": "🏎️",
+      "dot": "#7F77DD",
+      "stops": [
+        {
+          "icon": "🛻",
+          "name": "Квадроциклы или рафтинг",
+          "nameRu": "Выбор приключения в Голдене",
+          "time": "10:00–13:00",
+          "desc": "<p>Просыпаемся без спешки, завтракаем и отправляемся на одно из двух приключений:</p><p><strong>Вариант 1 — Квадроциклы/ATV:</strong> Лесные дебри, горные тропы и дикая природа с Rocky Mountain Riders или Canadian Off-Road Adventures. Семейные багги Side-by-Side/UTV — взрослые за рулём, дети рядом.</p><p><strong>Вариант 2 — Семейный рафтинг:</strong> Бурная река Кикинг Хорс с Alpine Rafting или Glacier Raft. Маршруты, подходящие для всей семьи, с настоящим адреналином.</p>",
+          "links": [
+            {
+              "label": "Alpine Rafting — Kicking Horse",
+              "url": "https://www.alpinerafting.com/"
+            },
+            {
+              "label": "ATV Tours — Golden",
+              "url": "https://www.banffadventures.com/things-to-do/golden-atv-tour"
+            }
+          ],
+          "tips": [
+            "Бронировать заранее — обязательно!",
+            "Шлемы и жилеты выдаются на месте",
+            "Взять смену сухой одежды для рафтинга"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~3 часа"
+            },
+            {
+              "icon": "ti-alert-triangle",
+              "text": "Бронировать заранее"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Голден, Британская Колумбия"
+            }
+          ],
+          "q": "ATV UTV Rafting tours Golden BC Canada",
+          "imgs": [
+            "https://www.banffadventures.com/site/assets/files/13851/atv-big-splash-golden.2200x1257.jpg",
+            "https://www.banffadventures.com/site/assets/files/10497/hydra_rafting_kicking_horse.800x580.jpg",
+            "https://www.banffadventures.com/site/assets/files/10497/golden_atv-coa.800x580.jpg"
+          ]
+        },
+        {
+          "icon": "🍽️",
+          "name": "Обед в Голдене",
+          "nameRu": "Обед перед дорогой",
+          "time": "13:00–14:00",
+          "desc": "Плотный обед в Голдене после активного утра — набираемся сил перед дорогой. Можно вернуться в The Wolf's Den или выбрать другое место в центре городка.",
+          "tips": [
+            "The Wolf's Den — проверенный вариант",
+            "Заправить машины перед выездом",
+            "Взять кофе и снеки с собой в дорогу"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1 час"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Голден, Британская Колумбия"
+            }
+          ],
+          "q": "restaurants Golden BC Canada",
+          "imgs": [
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5Fl2kDkw2XLthXEfyvDg0XsATzCQ2apcErryZ8DdURrAxDAleENn3mFnXQtIWUmCf3Lwqy7xAvusLGtmizj-WX7WDOrhiBL-CVqMRJUNrYbC8zsC-fPKhfuadf9i0_b2DSRnE=s1360-w1360-h1020-rw",
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnwmns8zhSJNqYLXQw-j8RD0wD2L-vDHeBdyjIbIziJ2RiscVNtcEtCUA-NUFI8gj3zWKKWgtlmT4GIcFy0anI_nMEA6QScvAcXcBweaJDz3dlqBRijgsdX8thhHPG9Y4ctHwC3KbZj2Q=s1360-w1360-h1020-rw"
+          ]
+        },
+        {
+          "icon": "💦",
+          "name": "Crazy Creek Hot Pools Resort",
+          "nameRu": "Релакс в горячих бассейнах",
+          "time": "15:30–18:00",
+          "desc": "После активного утра с квадроциклами или рафтингом — 2.5 часа чистого кайфа. Расслабляемся в больших бассейнах с геотермальной горячей водой разной температуры. Дети вдоволь наплаваются, взрослые снимут всё напряжение.",
+          "links": [
+            {
+              "label": "Официальный сайт",
+              "url": "https://www.crazycreekresort.com/"
+            }
+          ],
+          "tips": [
+            "Взять полотенца, купальники и сланцы",
+            "Бассейны разной температуры — есть холодный пландж",
+            "~1.5 часа езды от Голдена"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~2.5 часа"
+            },
+            {
+              "icon": "ti-droplet",
+              "text": "Геотермальные бассейны"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Мальква, Британская Колумбия"
+            }
+          ],
+          "q": "Crazy Creek Hot Pools Resort, Trans-Canada Highway, Malakwa, BC, Canada",
+          "imgs": [
+            "https://images.trvl-media.com/lodging/13000000/12940000/12934500/12934433/4ad0a4d4.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+            "https://a-ca.storyblok.com/f/2000158/1500x996/4fc6636c35/hotsprings.jpg",
+            "https://images.squarespace-cdn.com/content/v1/5fc6d45b1a9b7f647933bb1c/3d75ebd8-ead4-4d6c-bf0d-977c0b4c7567/_21A8441-Hot+Pools+WEB+%C2%A9Jaclyn+Tanemura+copy.jpg"
+          ]
+        },
+        {
+          "icon": "🛒",
+          "name": "Real Canadian Superstore",
+          "nameRu": "Большой закуп в Верноне",
+          "time": "19:30–20:30",
+          "desc": "Важная логистическая точка — забиваем тележки продуктами на всю компанию на ближайшие 3 дня: стейки для гриля, овощи, завтраки, фрукты и маршмеллоу для костра. <strong>Рекомендуем заказать онлайн заранее через PC Express</strong> — это сэкономит 2–3 часа на месте.",
+          "tips": [
+            "Мясо для гриля и барбекю",
+            "Маршмеллоу для костра — обязательно",
+            "Завтраки, напитки, фрукты на 3 дня",
+            "PC Express — заказать онлайн и забрать готовым"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1 час"
+            },
+            {
+              "icon": "ti-building",
+              "text": "Вернон, Британская Колумбия"
+            }
+          ],
+          "q": "Real Canadian Superstore Vernon BC",
+          "imgs": [
+            "https://images.unsplash.com/photo-1542838132-92c53300491e?w=1200&q=80",
+            "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=1200&q=80",
+            "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=1200&q=80"
+          ]
+        },
+        {
+          "icon": "🏡",
+          "name": "Starry Summit Haven",
+          "nameRu": "Заселение на виллу",
+          "time": "21:00+",
+          "desc": "<p>20 минут по живописному серпантину вверх от Вернона до курорта Сильвер-Стар.</p><p>Прибываем по адресу <strong>9882 Cathedral Dr, Vernon, BC V1B 0S1</strong>. Разбираем вещи, разжигаем барбекю на террасе, ужинаем на свежем горном воздухе и отдыхаем. <strong>Starry Summit Haven</strong> — абсолютно новый, красивый и современный целый дуплекс. Здесь остаёмся 3 ночи.</p>",
+          "tips": [
+            "~20 мин серпантина от Вернона до Silver Star",
+            "Сразу разжечь барбекю на террасе",
+            "Вид на вечерние горы"
+          ],
+          "info": [
+            {
+              "icon": "ti-home",
+              "text": "9882 Cathedral Dr, Vernon, BC V1B 0S1"
+            },
+            {
+              "icon": "ti-moon",
+              "text": "3 ночи"
+            }
+          ],
+          "q": "Silver Star Mountain Resort BC Canada",
+          "imgs": [
+            "https://silverstarstays.com/wp-content/uploads/2025/03/Exterior-Summer--600x400.jpg",
+            "https://silverstarstays.com/wp-content/uploads/2024/09/9884PurcellDr20-600x400.jpg",
+            "https://silverstarstays.com/wp-content/uploads/2024/09/9884PurcellDr23-600x400.jpg"
+          ]
+        }
+      ],
+      "summary": [
+        {
+          "icon": "🚗",
+          "text": "Маршрут: Голден → Crazy Creek → Вернон → Silver Star"
+        },
+        {
+          "icon": "⏱",
+          "text": "Чистое время в дороге: ~3.5 часа"
+        },
+        {
+          "icon": "📏",
+          "text": "Расстояние: ~260 км"
+        }
+      ]
+    },
+    {
+      "date": "25.07",
+      "title": "День 3",
+      "sub": "Виноградники и бирюзовое озеро",
+      "emoji": "🍷",
+      "dot": "#378ADD",
+      "stops": [
+        {
+          "icon": "🏡",
+          "name": "Выезд из виллы",
+          "nameRu": "Выезд из SilverStar",
+          "time": "11:00",
+          "desc": "Спускаемся с горы и едем на юг в регион виноградников Lake Country. Около 45 минут в пути.",
+          "tips": [
+            "Собраться заранее — спуск с горы займёт время",
+            "Взять солнцезащитный крем и купальники"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~45 мин до первой остановки"
+            }
+          ],
+          "q": "Silver Star Mountain Resort Vernon BC",
+          "imgs": [
+            "https://silverstarstays.com/wp-content/uploads/2025/03/Exterior-Summer--600x400.jpg"
+          ]
+        },
+        {
+          "icon": "🍷",
+          "name": "Обед и дегустация вина",
+          "nameRu": "Винодельни Lake Country",
+          "time": "11:45–14:00",
+          "desc": "<p>Выбирайте на месте одну из двух опций:</p><p><strong>Опция 1 — 50th Parallel Estate.</strong> Обед в ресторане BLOCK ONE. Отличный выбор для детей благодаря пицце на дровах. Взрослые наслаждаются вином и футуристической архитектурой.</p><p><strong>Опция 2 — Gray Monk Estate.</strong> Обед в ресторане The Lookout. Самый красивый панорамный вид на озеро, классическая атмосфера, лучшие белые вина для взрослых.</p>",
+          "links": [
+            {
+              "label": "50th Parallel Estate",
+              "url": "https://www.50thparallel.com/"
+            },
+            {
+              "label": "Gray Monk Estate Winery",
+              "url": "https://www.graymonk.com/"
+            }
+          ],
+          "tips": [
+            "50th Parallel — пицца на дровах, идеально для детей",
+            "Gray Monk — лучший панорамный вид на озеро",
+            "Бронировать столик заранее для 16 человек"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~2 часа"
+            },
+            {
+              "icon": "ti-glass-full",
+              "text": "Дегустация вин"
+            },
+            {
+              "icon": "ti-tools-kitchen-2",
+              "text": "Обед с видом"
+            }
+          ],
+          "q": "50th Parallel Estate Winery Lake Country BC",
+          "imgs": [
+            "https://vivid.tours/wp-content/uploads/2020/02/22-Gray-Monk-1500.jpg",
+            "https://www.50thparallel.com/wp-content/uploads/2024/12/50th-Parallel-24-06-Jon-Adrian-240.jpg",
+            "https://www.50thparallel.com/wp-content/uploads/2022/12/50th-Parallel-22-08-Jon-Adrian-073-1024x683.jpg"
+          ]
+        },
+        {
+          "icon": "🚗",
+          "name": "Переезд к озеру Kalamalka",
+          "nameRu": "Переезд к Kalamalka",
+          "time": "14:00–14:30",
+          "desc": "Возвращаемся на 20 минут назад к южной окраине Вернона, прямо к потрясающему бирюзовому озеру Kalamalka.",
+          "tips": [
+            "Переодеться в купальники в машине или на парковке"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~20–30 мин в пути"
+            }
+          ],
+          "q": "Kalamalka Lake Vernon BC",
+          "imgs": [
+            "https://nrs.objectstore.gov.bc.ca/kuwyyf/Kalamalka_Lake_Park_277_gal_RS_33916_1399d1ece9.JPG"
+          ]
+        },
+        {
+          "icon": "⛵",
+          "name": "Kal Beach — понтонный катер",
+          "nameRu": "Водное шоу на Kalamalka Lake",
+          "time": "14:30–17:30",
+          "desc": "<p>Kal Beach — лучший, самый красивый пляж в районе с тёплой водой и деревянным пирсом для прыжков.</p><p>Берём заранее забронированный большой <strong>понтонный катер</strong> (Kalamalka Lake Boat Rentals или Kalamalka Lake Marina). Катаемся 2–3 часа по бирюзовой воде, дети купаются прямо с катера и катаются на ватрушке (Tubing).</p><p>Кто не хочет на катер — отдыхает на оборудованном песчаном пляже Kal Beach (там есть тень, туалеты и кафе).</p>",
+          "links": [
+            {
+              "label": "Kalamalka Lake Boat Rentals",
+              "url": "https://www.kalamalkalake.org/"
+            }
+          ],
+          "tips": [
+            "Забронировать понтонный катер заранее!",
+            "Взять надувную ватрушку для Tubing",
+            "Деревянный пирс для прыжков в воду",
+            "На пляже есть тень, туалеты и кафе для тех, кто остаётся"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~3 часа"
+            },
+            {
+              "icon": "ti-sailboat",
+              "text": "Понтонный катер + Tubing"
+            },
+            {
+              "icon": "ti-swim",
+              "text": "Тёплая бирюзовая вода"
+            }
+          ],
+          "q": "Kal Beach Kalamalka Lake Vernon BC",
+          "imgs": [
+            "https://vernonmorningstar.com/wp-content/uploads/sites/4/2022/08/30020400_web1_200730-VMS-COVID-Vernon-kal-beach_1.jpg",
+            "https://www.kalamalkalake.org/wp-content/uploads/2018/06/Kal-Beach-on-Kalamalka-Lake-in-Vernon-BC-Facing-Northwest-1-1024x576.jpg",
+            "https://nrs.objectstore.gov.bc.ca/kuwyyf/Kalamalka_Lake_Park_277_gal_RS_33916_1399d1ece9.JPG"
+          ]
+        },
+        {
+          "icon": "🏡",
+          "name": "Вечер на вилле",
+          "nameRu": "Возвращение и барбекю",
+          "time": "18:30+",
+          "desc": "Сдаём катер, переодеваемся в сухое на пляже и едем обратно на виллу (~35 минут). Ужин, отдых, барбекю на террасе. Дети будут спать как младенцы после активного дня на воде.",
+          "tips": [
+            "~35 минут от Kal Beach до виллы",
+            "Разжечь барбекю сразу по приезду",
+            "Подготовить мясо с вечера заранее"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~35 мин от пляжа"
+            },
+            {
+              "icon": "ti-flame",
+              "text": "Барбекю на террасе"
+            }
+          ],
+          "q": "9882 Cathedral Dr, Vernon, BC V1B 0S1",
+          "imgs": [
+            "https://silverstarstays.com/wp-content/uploads/2025/03/Exterior-Summer--600x400.jpg"
+          ]
+        }
+      ],
+      "summary": [
+        {
+          "icon": "🚗",
+          "text": "Маршрут: Silver Star → Lake Country → Kalamalka → Silver Star"
+        },
+        {
+          "icon": "⏱",
+          "text": "Чистое время в дороге: ~2 часа"
+        },
+        {
+          "icon": "📏",
+          "text": "Расстояние: ~100 км"
+        }
+      ]
+    },
+    {
+      "date": "26.07",
+      "title": "День 4",
+      "sub": "Quails' Gate, Wibit и пляж Келоуны",
+      "emoji": "🍇",
+      "dot": "#D85A30",
+      "stops": [
+        {
+          "icon": "🚗",
+          "name": "Выезд на Quails' Gate",
+          "nameRu": "Дорога к винодельне",
+          "time": "11:00–12:15",
+          "desc": "Выезжаем с виллы в Сильвер-Стар чуть позже, выспавшись и отдохнув. Направляемся в Западную Келоуну (West Kelowna) к одной из самых известных семейных виноделен региона.",
+          "tips": [
+            "Выспаться — выезд без спешки",
+            "Взять купальники и пляжные вещи"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1 час 15 мин в пути"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Silver Star → West Kelowna"
+            }
+          ],
+          "q": "Silver Star Mountain Resort Vernon BC",
+          "imgs": [
+            "https://winebc.com/wp-content/uploads/2023/12/QG-TK-0016.jpg",
+            "https://media.eventective.com/2916983_lg.jpg",
+            "https://www.quailsgate.com/wp-content/uploads/2023/05/QG-4.jpg"
+          ]
+        },
+        {
+          "icon": "🍇",
+          "name": "Quails' Gate Winery",
+          "nameRu": "Дегустация на склоне у озера",
+          "time": "12:15–14:00",
+          "desc": "<p>Прибываем на живописную винодельню, расположенную прямо на склоне холма у озера Оканаган.</p><p><strong>Для всех:</strong> Наслаждаемся потрясающими панорамными видами на виноградники, уходящие прямо в воду. Делаем красивые семейные фотографии.</p><p><strong>Для взрослых:</strong> Проходим дегустацию премиальных местных вин. <strong>Места строго рекомендуется бронировать заранее!</strong></p>",
+          "links": [
+            {
+              "label": "Quails' Gate Winery",
+              "url": "https://www.quailsgate.com/"
+            }
+          ],
+          "tips": [
+            "Бронировать дегустацию заранее — мест мало",
+            "Виноградники спускаются прямо к озеру",
+            "Лучшие панорамные семейные фото"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1.5 часа"
+            },
+            {
+              "icon": "ti-grape",
+              "text": "Дегустация премиальных вин"
+            },
+            {
+              "icon": "ti-camera",
+              "text": "Панорама на озеро Оканаган"
+            }
+          ],
+          "q": "Quails Gate Winery West Kelowna BC",
+          "imgs": [
+            "https://winebc.com/wp-content/uploads/2023/12/QG-TK-0016.jpg",
+            "https://media.eventective.com/2916983_lg.jpg",
+            "https://www.quailsgate.com/wp-content/uploads/2023/05/QG-4.jpg"
+          ]
+        },
+        {
+          "icon": "🚗",
+          "name": "Переезд в центр Келоуны",
+          "nameRu": "Через мост в даунтаун",
+          "time": "14:00–14:30",
+          "desc": "Садимся в машины, пересекаем мост над озером и перемещаемся в самое сердце города к пляжной зоне.",
+          "tips": [
+            "Переодеться в купальники заранее"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~30 мин в пути"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "West Kelowna → Downtown Kelowna"
+            }
+          ],
+          "q": "Kelowna City Park Beach BC",
+          "imgs": [
+            "https://cruiseweb.com/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fports-of-call-kelowna-canada.jpg&w=1920&q=50"
+          ]
+        },
+        {
+          "icon": "🍽️",
+          "name": "Обед на набережной",
+          "nameRu": "Пикник или ресторан",
+          "time": "14:30–15:30",
+          "desc": "Время подкрепиться после дороги и вина. Можно зайти в один из уютных ресторанчиков в центре или взять еду на вынос (takeaway) и устроить классный пикник прямо на траве под деревьями у пляжа.",
+          "tips": [
+            "Пикник на траве у пляжа — идеально для детей",
+            "Cactus Club или Earls — хороший выбор для ресторана",
+            "Взять еду на вынос быстрее и дешевле"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1 час"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Набережная Келоуны"
+            }
+          ],
+          "q": "Cactus Club Kelowna waterfront BC",
+          "imgs": [
+            "https://specials-images.forbesimg.com/imageserve/688aa1f7c49d9bbcf241175b/960x0.jpg",
+            "https://movingtokelowna.ca/assets/gallery-1-BuiqcVzs.jpg",
+            "https://bestever.guide/wp-content/uploads/2022/03/Smack-Dab-scaled.jpg"
+          ]
+        },
+        {
+          "icon": "🌊",
+          "name": "Kelowna Wibit & Пляж",
+          "nameRu": "Аквапарк и пляж City Park",
+          "time": "15:30–18:30",
+          "desc": "<p><strong>Активная часть:</strong> Дети и самые смелые взрослые штурмуют надувной аквапарк Wibit — прыгаем, бегаем по водным батутам и проходим полосу препятствий на воде.</p><p><strong>Релакс часть:</strong> Остальные комфортно загорают на пляже, купаются в озере или отдыхают на зелёной лужайке.</p><p><strong>Сладкий бонус:</strong> В перерыве заглядываем за культовым домашним мороженым в <strong>Parlour Ice Cream</strong>.</p>",
+          "links": [
+            {
+              "label": "Kelowna Wibit Water Park",
+              "url": "https://www.kelowna.ca/parks-recreation/parks-trails/city-park"
+            },
+            {
+              "label": "Parlour Ice Cream",
+              "url": "https://www.parlouricecream.com/"
+            }
+          ],
+          "tips": [
+            "Спасательные жилеты выдаются всем",
+            "Взять смену сухой одежды",
+            "Parlour Ice Cream — обязательно в перерыве",
+            "На пляже есть тень и туалеты"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~3 часа"
+            },
+            {
+              "icon": "ti-wave-sine",
+              "text": "Надувной аквапарк на озере"
+            },
+            {
+              "icon": "ti-ice-cream",
+              "text": "Parlour Ice Cream рядом"
+            }
+          ],
+          "q": "Wibit water park Kelowna City Park beach",
+          "imgs": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/21/40/33/splash-bc-water-park.jpg?w=1600&h=-1&s=1",
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/53/53/e1/getlstd-property-photo.jpg?w=1200&h=900&s=1",
+            "https://www.wibitsports.com/wp-content/uploads/2025/08/Nachher_2-1010x1024.jpg"
+          ]
+        },
+        {
+          "icon": "🏡",
+          "name": "Возвращение на виллу",
+          "nameRu": "Сборы и дорога домой",
+          "time": "19:00–20:15",
+          "desc": "Спокойно собираем пляжные вещи, принимаем лёгкий освежающий душ на пляже, переодеваемся в сухую одежду и едем обратно на виллу в Сильвер-Стар. Уставшие, накупавшиеся и довольные — отличный семейный вечер.",
+          "tips": [
+            "~1 час 15 мин от City Park до виллы",
+            "Душ прямо на пляже перед дорогой",
+            "Последний вечер на вилле — не торопиться"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1 час 15 мин в пути"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Kelowna → Silver Star"
+            }
+          ],
+          "q": "9882 Cathedral Dr, Vernon, BC V1B 0S1",
+          "imgs": [
+            "https://silverstarstays.com/wp-content/uploads/2025/03/Exterior-Summer--600x400.jpg"
+          ]
+        }
+      ],
+      "summary": [
+        {
+          "icon": "🚗",
+          "text": "Маршрут: Silver Star → West Kelowna → Центр Келоуны → Silver Star"
+        },
+        {
+          "icon": "⏱",
+          "text": "Чистое время в дороге: ~2.5 часа"
+        },
+        {
+          "icon": "📏",
+          "text": "Расстояние: ~150 км"
+        }
+      ]
+    },
+    {
+      "date": "27.07",
+      "title": "День 5",
+      "sub": "Ревелсток, Банф и дорога домой",
+      "emoji": "🏔️",
+      "dot": "#639922",
+      "stops": [
+        {
+          "icon": "🚗",
+          "name": "Выезд из Silver Star",
+          "nameRu": "Дорога к Ревелстоку",
+          "time": "10:00–12:00",
+          "desc": "Выезжаем с виллы в 10:00. Спускаемся с гор и выезжаем на шоссе Trans-Canada Highway (Hwy 1) на восток. Впереди ~150 км живописной горной дороги до Ревелстока.",
+          "tips": [
+            "Собрать вещи накануне вечером",
+            "Заправиться сразу на выезде с Silver Star"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~2 часа в пути"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Silver Star → Revelstoke"
+            },
+            {
+              "icon": "ti-road",
+              "text": "Trans-Canada Highway (Hwy 1)"
+            }
+          ],
+          "q": "Silver Star Mountain Resort Vernon BC",
+          "imgs": [
+            "https://silverstarstays.com/wp-content/uploads/2025/03/Exterior-Summer--600x400.jpg",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&q=80"
+          ]
+        },
+        {
+          "icon": "🌲",
+          "name": "Остановка в Ревелстоке",
+          "nameRu": "Giant Cedars или Crazy Creek",
+          "time": "12:00–13:00",
+          "desc": "<p>Останавливаемся в районе Ревелстока, чтобы размять ноги и выпить кофе.</p><p><strong>Вариант 1 — Giant Cedars Boardwalk:</strong> Прогулка среди гигантских древних кедров по деревянным настилам. Тихо, впечатляюще, идеально для детей.</p><p><strong>Вариант 2 — Crazy Creek Suspension Bridge:</strong> Подвесной мост над водопадами — захватывающие виды и адреналин.</p>",
+          "links": [
+            {
+              "label": "Giant Cedars Boardwalk",
+              "url": "https://parks.canada.ca/pn-np/bc/revelstoke/activ/randonee-hiking/sentiers-trails"
+            },
+            {
+              "label": "Crazy Creek Suspension Bridge",
+              "url": "https://crazycreekbc.com/"
+            }
+          ],
+          "tips": [
+            "Giant Cedars — лёгкая прогулка, подходит всем",
+            "Crazy Creek — платный вход, но впечатляет",
+            "Взять кофе/чай с собой в термосе"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1 час"
+            },
+            {
+              "icon": "ti-tree",
+              "text": "Гигантские кедры или водопады"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Revelstoke, BC"
+            }
+          ],
+          "q": "Giant Cedars Boardwalk Revelstoke BC",
+          "imgs": [
+            "https://images.unsplash.com/photo-1502784444187-359ac186c5bb?w=1200&q=80",
+            "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80",
+            "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80"
+          ]
+        },
+        {
+          "icon": "🏔️",
+          "name": "Rogers Pass → Голден",
+          "nameRu": "Перевал и обед в Голдене",
+          "time": "13:00–16:15",
+          "desc": "<p><strong>13:00–14:45 — Перевал Роджерс (~1:45 в пути, 150 км):</strong> Проезжаем монументальный и очень красивый перевал Rogers Pass, окружённый ледниками. Один из красивейших участков Trans-Canada Highway.</p><p><strong>14:45–16:15 — Обед в Голдене:</strong> Заезжаем в горный городок Голден. Обедаем в одном из ресторанчиков в центре (например, у реки) либо заходим в парк <strong>Golden Skybridge</strong> — самые высокие подвесные мосты в Канаде и отличная игровая зона для детей.</p>",
+          "links": [
+            {
+              "label": "Rogers Pass — Parks Canada",
+              "url": "https://parks.canada.ca/pn-np/bc/glacier"
+            },
+            {
+              "label": "Golden Skybridge",
+              "url": "https://www.goldenskybridge.com/"
+            }
+          ],
+          "tips": [
+            "Rogers Pass — остановиться для фото у знака",
+            "Обед у реки в центре Голдена"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1:45 до Голдена + 1:30 на обед"
+            },
+            {
+              "icon": "ti-mountain",
+              "text": "Rogers Pass — ледники и перевал"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Rogers Pass → Golden, BC"
+            }
+          ],
+          "q": "Rogers Pass Glacier National Park BC Canada",
+          "imgs": [
+            "https://pcweb2.azureedge.net/-/media/pn-np/bc/glacier/WET4/activ/hiking/1140x570-meeting-waters-feature/meeting-waters-1200px.jpg",
+            "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSc6_22F41V0_EqrGMvgwmAaTkq7LUC84cKcii1jKBEAObhubwxvltJp7dePOt0JNMdmZVQBZJYdbSNoDKbT3NMgYN7WY-u8Xrt_beSydjMQTJekFTT9Ba7Zcq0xvVuREWazA=s1360-w1360-h1020-rw",
+            "https://pcweb2.azureedge.net/-/media/pn-np/bc/glacier/WET4/activ/hiking/1140x570-bear-creek-falls-feature/bear-creek-falls-1200px.jpg"
+          ]
+        },
+        {
+          "icon": "🦌",
+          "name": "Банф — вечерняя прогулка",
+          "nameRu": "Альпийский городок Банф",
+          "time": "19:30–20:45",
+          "desc": "<p><strong>16:15–19:30 — Дорога в Банф (~2:15, 210 км):</strong> Проезжаем мимо Лейк Луиз и движемся дальше по национальному парку. Внимание: пересекаем границу провинций — <strong>переводим часы на 1 час вперёд</strong> (с 18:30 на 19:30).</p><p><strong>19:30–20:45 — Прогулка по Банфу:</strong> Прибываем в знаменитый альпийский городок. В это время здесь легко найти парковку. Прогулка по Banff Avenue с открыточным видом на гору Cascade. Можно дойти до реки Боу или водопадов Bow Falls. Мороженое, сувениры, лёгкий ужин на фоне гор.</p>",
+          "links": [
+            {
+              "label": "Banff National Park",
+              "url": "https://parks.canada.ca/pn-np/ab/banff"
+            }
+          ],
+          "tips": [
+            "Перевести часы +1 при въезде в Альберту",
+            "Парковка вечером — намного проще",
+            "Bow Falls — 10 минут пешком от центра",
+            "Banff Avenue — лучшие сувениры и мороженое"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1:15 на прогулку"
+            },
+            {
+              "icon": "ti-mountain",
+              "text": "Вид на Cascade Mountain"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Banff, AB"
+            }
+          ],
+          "q": "Banff Avenue Banff Alberta Canada",
+          "imgs": [
+            "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1200&q=80",
+            "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80",
+            "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
+          ]
+        },
+        {
+          "icon": "🏠",
+          "name": "Финальный переезд в Калгари",
+          "nameRu": "Домой!",
+          "time": "20:45–22:15",
+          "desc": "Выезжаем из Банфа. Дорога до Калгари отсюда короче, шире и пролетает очень быстро — всего ~130 км. Горы постепенно сменяются светящимися огнями города. Возвращаемся домой, разгружаем вещи и отдыхаем после насыщенного и красивого путешествия!",
+          "tips": [
+            "Дорога Банф–Калгари хорошо освещена",
+            "Заправиться в Банфе перед выездом",
+            "Разделить вещи по машинам заранее"
+          ],
+          "info": [
+            {
+              "icon": "ti-clock",
+              "text": "~1.5 часа"
+            },
+            {
+              "icon": "ti-map-pin",
+              "text": "Banff → Calgary"
+            },
+            {
+              "icon": "ti-road",
+              "text": "~130 км"
+            }
+          ],
+          "q": "Trans-Canada Highway Banff to Calgary Alberta",
+          "imgs": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80",
+            "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1200&q=80"
+          ]
+        }
+      ],
+      "summary": [
+        {
+          "icon": "🚗",
+          "text": "Маршрут: Silver Star → Revelstoke → Rogers Pass → Golden → Banff → Calgary"
+        },
+        {
+          "icon": "⏱",
+          "text": "Чистое время в дороге: ~7 часов"
+        },
+        {
+          "icon": "📏",
+          "text": "Расстояние: ~640 км"
+        }
+      ]
+    }
+  ]
+}

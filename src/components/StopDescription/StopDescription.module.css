@@ -1,0 +1,36 @@
+.desc {
+  font-size: 17px;
+  color: #333;
+  line-height: 1.75;
+  margin-bottom: 16px;
+}
+
+.desc :global(p) {
+  margin: 0 0 10px;
+}
+
+.desc :global(p:last-child) {
+  margin-bottom: 0;
+}
+
+.desc :global(ul),
+.desc :global(ol) {
+  margin: 8px 0 10px 20px;
+}
+
+.desc :global(li) {
+  margin-bottom: 4px;
+}
+
+.desc :global(a) {
+  color: #1a5fb4;
+  text-decoration: underline;
+}
+
+.desc :global(a:hover) {
+  color: #0d4a8f;
+}
+
+.desc :global(strong) {
+  font-weight: 600;
+}

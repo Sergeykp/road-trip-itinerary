@@ -1,0 +1,40 @@
+.gallery {
+  display: flex;
+  gap: 8px;
+  padding: 10px 12px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: thin;
+  border-bottom: 1px solid #e0e0d8;
+}
+
+.gallery::-webkit-scrollbar {
+  height: 6px;
+}
+
+.gallery::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+
+.thumbButton {
+  flex: 0 0 auto;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.thumb {
+  display: block;
+  width: 320px;
+  height: 180px;
+  object-fit: cover;
+  background: #eee;
+  border-radius: 6px;
+  transition: opacity 0.15s;
+}
+
+.thumbButton:hover .thumb {
+  opacity: 0.9;
+}

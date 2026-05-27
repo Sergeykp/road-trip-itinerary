@@ -1,0 +1,32 @@
+.overlay {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.85);
+  z-index: 999;
+  align-items: center;
+  justify-content: center;
+}
+
+.close {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  color: #fff;
+  font-size: 32px;
+  font-weight: 300;
+  cursor: pointer;
+  background: none;
+  border: none;
+  line-height: 1;
+}
+
+.image {
+  max-width: 92%;
+  max-height: 92%;
+  border-radius: 8px;
+  object-fit: contain;
+}

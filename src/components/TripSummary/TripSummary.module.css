@@ -1,0 +1,163 @@
+.panel {
+  display: block;
+  flex-shrink: 0;
+  width: 60%;
+  overflow-y: auto;
+  background: #fafaf8;
+  border-left: 1px solid #e0e0d8;
+}
+
+.header {
+  padding: 28px 28px 20px;
+  border-bottom: 1px solid #e0e0d8;
+  background: #fff;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.subtitle {
+  font-size: 15px;
+  color: #888;
+  margin-top: 4px;
+}
+
+.route {
+  font-size: 15px;
+  color: #555;
+  margin-top: 2px;
+}
+
+.hint {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin: 20px 20px 0;
+  padding: 14px 16px;
+  background: #f0f4ff;
+  border: 1px solid #d6e0ff;
+  border-radius: 10px;
+  color: #3a4e80;
+}
+
+.hint i {
+  font-size: 24px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.hintTitle {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 3px;
+}
+
+.hintText {
+  font-size: 13px;
+  line-height: 1.5;
+  color: #4a5a8a;
+}
+
+.days {
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.day {
+  background: #fff;
+  border: 1px solid #e8e8e4;
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+
+.dayHeader {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.dayEmoji {
+  font-size: 22px;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.dayTitle {
+  font-size: 15px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.daySub {
+  font-size: 13px;
+  color: #888;
+  margin-top: 2px;
+}
+
+.summary {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding-left: 32px;
+}
+
+.summaryLine {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  font-size: 13px;
+  color: #555;
+  line-height: 1.5;
+}
+
+.summaryIcon {
+  font-size: 13px;
+  flex-shrink: 0;
+}
+
+.totals {
+  margin: 4px 20px 20px;
+  background: #fff;
+  border: 1px solid #e8e8e4;
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+
+.totalsTitle {
+  font-size: 13px;
+  font-weight: 600;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 10px;
+}
+
+.totalsGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.totalItem {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 14px;
+  color: #333;
+}
+
+.totalIcon {
+  font-size: 16px;
+}
+
+@media (max-width: 900px) {
+  .panel {
+    display: none;
+  }
+}

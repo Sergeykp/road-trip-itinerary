@@ -1,0 +1,44 @@
+.links {
+  margin-bottom: 16px;
+}
+
+.label {
+  font-size: 13px;
+  font-weight: 600;
+  color: #888;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 15px;
+  color: #1a1a1a;
+  text-decoration: none;
+  transition:
+    background 0.12s,
+    border-color 0.12s;
+}
+
+.link:hover {
+  background: #f5f5f3;
+  border-color: #ccc;
+}
+
+.link::after {
+  content: '↗';
+  font-size: 13px;
+  color: #888;
+}

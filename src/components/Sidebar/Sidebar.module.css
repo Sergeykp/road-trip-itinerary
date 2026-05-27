@@ -1,0 +1,21 @@
+.sidebar {
+  flex: 1;
+  min-width: 0;
+  overflow-y: auto;
+  background: #fff;
+  transition: border-color 0.2s;
+}
+
+.withDetail {
+  border-right: 1px solid #e0e0d8;
+}
+
+@media (max-width: 900px) {
+  .withDetail {
+    border-right: none;
+  }
+}
+
+.days {
+  display: block;
+}
